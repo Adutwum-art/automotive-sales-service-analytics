@@ -48,8 +48,9 @@ As a regional manager, it is important to understand:
 
 ### 🔹 Looker Studio Dashboard
 
-![Looker Sales Dashboard](screenshots/looker/sales_dashboardLn.png)
-![Looker Service Dashboard](screenshots/looker/service_dashboardLn.png)
+![Looker Sales Dashboard](screenshots/looker/sales_dashboardLn.png)](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/4a2cdac94935bfced76304aa9deda1e4ad8b272e/screenshots/screenshots/looker/sales_dashboardLn.png)
+
+![Looker Service Dashboard](screenshots/looker/service_dashboardLn.png)](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/4a2cdac94935bfced76304aa9deda1e4ad8b272e/screenshots/screenshots/looker/sales_dashboardLn.png)
 
 
 ---
