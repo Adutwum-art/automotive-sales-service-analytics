@@ -50,7 +50,7 @@ As a regional manager, it is important to understand:
 
 ![Looker Sales Dashboard](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/4a2cdac94935bfced76304aa9deda1e4ad8b272e/screenshots/screenshots/looker/sales_dashboardLn.png)
 
-![Looker Service Dashboard](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/4a2cdac94935bfced76304aa9deda1e4ad8b272e/screenshots/screenshots/looker/sales_dashboardLn.png)
+![Looker Service Dashboard](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/ecf0e458b009181fa0a71e4e5b84ca3caf628e7a/screenshots/screenshots/looker/service_dashboardLn.png)
 
 
 
