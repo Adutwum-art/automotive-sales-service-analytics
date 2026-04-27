@@ -35,13 +35,6 @@ As a regional manager, it is important to understand:
 ![Hudson Model Profit by Dealer](screenshots/excel/hudson_profit_by_dealer.png)
 ![Quantity Sold by Dealer](screenshots/excel/quantity_sold_by_dealer.png)
 
-**Image Code:**
-
-```markdown
-![Profit by Year and Dealer](screenshots/excel/profit_by_year_dealer.png)
-![Hudson Model Profit by Dealer](screenshots/excel/hudson_profit_by_dealer.png)
-![Quantity Sold by Dealer](screenshots/excel/quantity_sold_by_dealer.png)
-```
 
 ---
 
@@ -50,15 +43,6 @@ As a regional manager, it is important to understand:
 ![Cognos Sales Dashboard](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/4967700564d5bb9469ee39ff0e1574dfe00cdb9b/screenshots/cognos/sales_dashboardn.png)
 ![Cognos Service Dashboard](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/cc76de74037e4dbec882afee6fd0f813764748d9/screenshots/cognos/service_dashboardn.png)
 
-**Image Code:**
-
-```markdown
-![Cognos Sales Dashboard](screenshots/cognos/sales_dashboard.png) 
-![Cognos Service Dashboard](screenshots/cognos/service_dashboard.png)
-```
-
-📄 Full Dashboard (PDF):
-dashboards/cognos_dashboard.pdf
 
 ---
 
@@ -67,15 +51,6 @@ dashboards/cognos_dashboard.pdf
 ![Looker Sales Dashboard](screenshots/looker/sales_dashboard.png)
 ![Looker Service Dashboard](screenshots/looker/service_dashboard.png)
 
-**Image Code:**
-
-```markdown
-![Looker Sales Dashboard](screenshots/looker/sales_dashboard.png)
-![Looker Service Dashboard](screenshots/looker/service_dashboard.png)
-```
-
-📄 Full Dashboard (PDF):
-dashboards/looker_dashboard.pdf
 
 ---
 
