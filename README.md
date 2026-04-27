@@ -58,7 +58,7 @@ As a regional manager, it is important to understand:
 
 ## 🔗 Dashboard Access
 
-👉 https://lookerstudio.google.com/reporting/YOUR-DASHBOARD-LINK-HERE
+👉 https://lookerstudio.google.com/reporting/(https://datastudio.google.com/u/0/reporting/61493095-b585-440c-b7a0-cb7f28216692/page/V7MwF/edit) 
 
 ---
 
