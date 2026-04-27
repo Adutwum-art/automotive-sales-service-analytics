@@ -101,6 +101,14 @@ dashboards/looker_dashboard.pdf
 * Customer sentiment highlights areas needing service improvement
 
 ---
+## 📊 Analytical Summary
+
+The analysis highlights a disconnect between sales volume and profitability across dealers and product lines. While some dealers achieve high sales, their profit margins remain relatively low, indicating inefficiencies in pricing or cost structures.
+
+Service data further reveals recurring technical issues in specific vehicle models and systems, which may contribute to negative customer sentiment and increased recall frequency.
+
+Overall, both sales and service insights suggest opportunities for operational optimization and improved customer experience management.
+
 
 ## 🎯 Business Recommendations
 
