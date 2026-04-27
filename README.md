@@ -48,8 +48,8 @@ As a regional manager, it is important to understand:
 
 ### 🔹 Looker Studio Dashboard
 
-![Looker Sales Dashboard](screenshots/looker/sales_dashboard.png)
-![Looker Service Dashboard](screenshots/looker/service_dashboard.png)
+![Looker Sales Dashboard](screenshots/looker/sales_dashboardLn.png)
+![Looker Service Dashboard](screenshots/looker/service_dashboardLn.png)
 
 
 ---
