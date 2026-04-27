@@ -47,7 +47,7 @@ As a regional manager, it is important to understand:
 
 ### 🔹 Cognos Dashboard
 
-![Cognos Sales Dashboard](screenshots/cognos/sales_dashboard.png)
+![Cognos Sales Dashboard](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/b21f033e17ea1837878186ff9297f51187b99a2a/screenshots/screenshots/cognos/sales_dashboard.png)
 ![Cognos Service Dashboard](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/15b64a88b3ec63f62e89a20414abea48607f7142/screenshots/screenshots/cognos/service_dashboard.png)
 
 **Image Code:**
