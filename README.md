@@ -18,7 +18,7 @@ As a regional manager, it is important to understand:
 
 * Which dealers generate the most profit
 * Which car models drive sales performance
-* Where operational inefficiencies exist
+* Where operational inefficiencies exist 
 * How service issues impact customer satisfaction
 
 ---
