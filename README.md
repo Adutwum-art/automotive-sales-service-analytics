@@ -2,7 +2,6 @@
 
 > 📌 This project demonstrates the ability to transform raw automotive data into actionable insights using multiple business intelligence tools.
 
-## 📊 Project Overview
 
 ## 📊 Project Overview
 
