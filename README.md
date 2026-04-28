@@ -1,10 +1,14 @@
 # 🚗 Automotive Sales & Service Analytics Dashboard
 
+> 📌 This project demonstrates the ability to transform raw automotive data into actionable insights using multiple business intelligence tools.
+
 ## 📊 Project Overview
 
-This project analyzes automotive dealership performance across sales and service operations using Excel, IBM Cognos Analytics, and Google Looker Studio.
+## 📊 Project Overview
 
-The objective is to transform raw dealership data into meaningful insights that support business decision-making.
+This project presents an end-to-end automotive sales and service analytics solution, combining Excel, IBM Cognos Analytics, and Google Looker Studio to deliver actionable business insights.
+
+The dashboards enable stakeholders to monitor dealer performance, evaluate profitability, identify product-level trends, and detect service-related issues affecting customer satisfaction.
 
 ---
 
@@ -26,6 +30,14 @@ As a regional manager, it is important to understand:
 * Google Looker Studio
 
 ---
+## 🚀 Key Skills Demonstrated
+
+- Data Visualization & Dashboard Design  
+- Business Intelligence Reporting  
+- Data Analysis using Excel (Pivot Tables, Charts)  
+- Interactive Dashboard Development  
+- Geospatial & Comparative Analysis  
+- Insight Generation & Business Storytelling  
 
 ## 📊 Dashboard Preview
 
@@ -48,8 +60,7 @@ As a regional manager, it is important to understand:
 
 ### 🔹 Looker Studio Dashboard
 
-![Looker Sales Dashboard](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/4a2cdac94935bfced76304aa9deda1e4ad8b272e/screenshots/screenshots/looker/sales_dashboardLn.png)
-
+![Looker Sales Dashboard](screenshots/looker/sales_dashboardLn.png) 
 ![Looker Service Dashboard](https://github.com/Adutwum-art/automotive-sales-service-analytics/blob/ecf0e458b009181fa0a71e4e5b84ca3caf628e7a/screenshots/screenshots/looker/service_dashboardLn.png)
 
 
@@ -71,12 +82,12 @@ As a regional manager, it is important to understand:
 
 ## 📈 Key Insights
 
-* Dealer performance varies significantly across regions
-* High sales volume does not always translate into high profit
-* Certain models dominate sales but generate lower margins
-* Some models show higher recall frequency, indicating quality issues
-* Customer sentiment highlights areas needing service improvement
-
+- Dealer performance varies significantly, with a small number of dealers contributing disproportionately to overall profit  
+- High sales volume does not always translate into high profitability, indicating margin inefficiencies  
+- Certain vehicle models dominate sales but generate comparatively lower profit margins  
+- Recurring recalls are concentrated in specific models and systems, suggesting potential design or quality issues  
+- Customer sentiment patterns highlight areas where service quality improvements are required
+- 
 ---
 ## 📊 Analytical Summary
 
